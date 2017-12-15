@@ -1,0 +1,29 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/res/res.js",
+		"promise/bin/promise.js"
+	],
+	"game": [
+		"bin-debug/event/Girl.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/basic/AnchorAndRotation.js",
+		"bin-debug/basic/BasicShow.js",
+		"bin-debug/basic/HitTest.js",
+		"bin-debug/basic/MaskTest.js",
+		"bin-debug/event/Boy.js",
+		"bin-debug/event/DateEvent.js",
+		"bin-debug/Main.js",
+		"bin-debug/image/DirtyRectangle.js",
+		"bin-debug/objAndContainer/AddAndRemoveObj.js",
+		"bin-debug/objAndContainer/ContainerTest.js",
+		"bin-debug/objAndContainer/DepthManage.js",
+		"bin-debug/shapeDraw/Arc.js",
+		"bin-debug/shapeDraw/BellsCurve.js",
+		"bin-debug/shapeDraw/HighArc.js",
+		"bin-debug/touchEvent/TouchEventTest.js"
+	]
+}
